@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button size prop should render element with lg size 1`] = `
+<button
+  class="sc-bdfBwQ eDWGdu"
+  type="button"
+/>
+`;
+
+exports[`Button size prop should render element with lg size className 1`] = `
+<button
+  class="sc-bdfBwQ eDWGdu"
+  type="button"
+/>
+`;
+
+exports[`Button size prop should render element with md size 1`] = `
+<button
+  class="sc-bdfBwQ iSFsKt"
+  type="button"
+/>
+`;
+
+exports[`Button size prop should render element with md size className 1`] = `
+<button
+  class="sc-bdfBwQ iSFsKt"
+  type="button"
+/>
+`;
+
+exports[`Button size prop should render element with stretch size 1`] = `
+<button
+  class="sc-bdfBwQ iSWvtD"
+  type="button"
+/>
+`;
+
+exports[`Button size prop should render element with stretch size className 1`] = `
+<button
+  class="sc-bdfBwQ iSWvtD"
+  type="button"
+/>
+`;
